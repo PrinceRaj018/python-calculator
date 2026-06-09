@@ -19,6 +19,3 @@ A beginner Python calculator project.
 ## File
 - calculator.py
 
-
-
-
